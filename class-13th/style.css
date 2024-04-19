@@ -1,0 +1,16 @@
+.design{
+    color: blue;
+    font-size: 20px;
+    font-weight: bolder;
+}
+h2{
+    color: bisque;
+    font-size: medium;
+    font-weight: 800;
+}
+
+#tag{
+    color:brown;
+    font-size: 50px;
+    background-color: aqua;
+}
