@@ -1,0 +1,21 @@
+body{ 
+    /*background-color: #6F4E45;*/
+}
+h2{
+    color: rgb(111, 78, 69);
+}
+
+section{
+    width: 100%;
+    height: 800px;
+    border: 2px solid red;
+    /*background-image: url(../Image/6.jpg);
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-attachment: fixed;
+    background-color: aliceblue; */
+    background: rgb(179, 11, 0) url(../Image/6.jpg) no-repeat center fixed;
+    background-size: contain;
+    color: azure;
+
+}
