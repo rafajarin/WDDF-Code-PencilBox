@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Galada&display=swap');
+@font-face{
+    src:url(../fonts/papyrus-font-1713930123-0/);
+    font-family: 'papyrus';
+}
+@font-face{
+    src:url(../fonts/Brush\ Script\ MT/BRUSHSCI.TTF);
+    font-family: 'Brush-Script';
+}
+@font-face{
+    src:url(../fonts/Hind_Siliguri/HindSiliguri-Bold.ttf);
+    font-family: 'Hindi';
+}
+*{
+    box-sizing: border-box;
+}
